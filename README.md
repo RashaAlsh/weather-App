@@ -2,7 +2,7 @@
 
 ## HackYourFuture APIs module project 
 
-## demo 
+## Demo :sunny:
 
 for the deployed version click [here](https://rashaalsh.github.io/weather-App/) 
 
