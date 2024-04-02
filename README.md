@@ -2,11 +2,11 @@
 
 ## HackYourFuture APIs module project 
 
-## about the project 
+## About the project :star2:
 
-### - This is a single page application that is connected to an API to shows current weather ( https://api.openweathermap.org )
-### - The user has to enter a valid city name to get information 
-### -  If the city name is not valid there will be an error message showed .
+ - This is a single page application that is connected to an API to shows current weather ( https://api.openweathermap.org )
+ - The user has to enter a valid city name to get information 
+ -  If the city name is not valid there will be an error message showed .
 
 ##  Screenshots :camera:
 <div>
