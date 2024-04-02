@@ -16,3 +16,9 @@
 ## Run Locally :runner:
 Clone the project
 ``` git@github.com:RashaAlsh/weather-App.git ```
+
+ Features :dart: 
+Search bar to enter city name 
+humidity and wind are displayed 
+Weather icon that get changes according to the weather condition
+shows an error to user when entering an invalid city name
