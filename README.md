@@ -2,6 +2,10 @@
 
 ## HackYourFuture APIs module project 
 
+## demo 
+
+for the deployed version click [here](https://rashaalsh.github.io/weather-App/) 
+
 ## About the project :star2:
 
  - This is a single page application that is connected to an API to shows current weather ( https://api.openweathermap.org )
